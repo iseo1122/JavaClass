@@ -10,6 +10,7 @@ package Day01;
 public class _02_Variable {
 
     public static void main(String[] args) {
+        System.out.println("변수");
         // 변수(variable) : 프로그램 실행에 필요한 데이터를 저장하기 위해
         //                  메모리 [공간을 할당]하고 [이름을 부여]한 것!
 

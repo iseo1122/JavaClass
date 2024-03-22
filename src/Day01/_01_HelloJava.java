@@ -13,6 +13,8 @@ public class _01_HelloJava {
     // 실제 프로그램이 실행되는 영역
     public static void main(String[] args) {
 
+        System.out.println("hi");
+
         // [1] 주석 : 내용은 작성하지만 실행은 되지 않는다.
 
 //        (1) 한줄 주석 : [Ctrl] + [/]
